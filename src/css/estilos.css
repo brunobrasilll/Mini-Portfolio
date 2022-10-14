@@ -139,3 +139,15 @@ body{
 .redes-sociais .github{
     background-color: #545454;
 }
+
+.descricao::-webkit-scrollbar{
+    border: 2px solid #d3622f;
+    border-radius: 10px;
+    background-color: black;
+}
+
+.descricao::-webkit-scrollbar-thumb{
+    background-color: #d3622f;
+    border: 2px solid black;
+    border-radius: 30px;
+}
