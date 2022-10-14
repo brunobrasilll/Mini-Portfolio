@@ -21,6 +21,7 @@ body{
     border-radius: 10px;
     overflow: hidden;
     opacity: 0.9;
+    box-shadow: 10px 10px 10px #d3622f;
 }
 
 .cartao .minhas-informacoes{
